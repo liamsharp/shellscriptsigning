@@ -8,7 +8,8 @@ To run:
 
 To verify:
 
-codesign -vv HelloWorld.app
+codesign -vv target/apps/shell-script/HelloWorld.app/
+codesign -vv target/apps/objective-c/HelloWorld.app/
 
 It should say:
 

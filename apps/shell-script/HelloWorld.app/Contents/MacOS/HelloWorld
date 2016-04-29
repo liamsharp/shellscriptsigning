@@ -1,2 +1,2 @@
 #!/bin/sh
-osascript -e "display dialog \"Hello World\""
+osascript -e "display dialog \"Hello World! I was launched from a Shell Script\""
